@@ -1,4 +1,4 @@
-
+![logo](https://github.com/kousikdash/kousikdash/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kousik Dash</h1>
 <h3 align="center">🤖 Exploring AI, one model at a time</h3>
 
